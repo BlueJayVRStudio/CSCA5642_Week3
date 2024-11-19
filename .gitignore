@@ -8,6 +8,7 @@ __pycache__/
 /data/
 
 /submissions/
+/submissions_threshold/
 
 ## Jupyter
 /[Vv]env/
